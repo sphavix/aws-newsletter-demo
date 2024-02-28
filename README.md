@@ -1,6 +1,7 @@
 ## AWS Newsletter Dummy Project
 
 
+![architecture]
 
 Newsletter Dummy Project.
 This project demonstrates how you can utilize AWS services to send email alerts or newsletters to users. Using services like Amazon EventBridge Schedule to invoke a target one-time or at regular intervals, it can be easily integrated with other AWS services.
